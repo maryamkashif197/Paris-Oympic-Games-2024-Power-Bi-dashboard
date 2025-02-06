@@ -1,6 +1,6 @@
 # Paris 2024 Olympic Games Data Visualization 
 ## Description
-We were tasked to integrate and visualize [datasets](https://www.kaggle.com/code/amankhan98/olympics-2024-analysis) about the 2024 Olympic Games in Paris using PowerBI to derive insights about the games. 
+We were tasked to integrate and visualize [datasets](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games) about the 2024 Olympic Games in Paris using PowerBI to derive insights about the games. 
 
 ## Key Features
 ### Data Integration
